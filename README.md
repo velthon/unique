@@ -1,2 +1,2 @@
-# unique
+# SLC
 GitHub Pages
